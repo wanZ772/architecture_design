@@ -37594,7 +37594,7 @@ A.ro.prototype={
 af(){var s=t.s,r=t.N
 return new A.Ba(A.b(["MODERN","ISLAMIC","GOTHIC","NATURE","EUROPEAN","JAPANESE"],s),A.b(["ZenDots-Regular","ArabicRamadan","Canterbury","NaturalForestDemoRegular","AnthoniaSignature","SamuraiBlast"],s),A.b(["modern.jpg","islamic.jpg","gothic.jpg","nature.jpg","european.jpg","japanese.jpeg"],s),A.aI(["Islamic","","Modern","","Goth",""],r,r),B.k)}}
 A.Ba.prototype={
-M(a){var s,r,q,p=this,o=null,n=p.w,m=A.abs("../asset/examples/"+p.f[n],B.iH,B.iM,1/0,1/0)
+M(a){var s,r,q,p=this,o=null,n=p.w,m=A.abs("./asset/examples/"+p.f[n],B.iH,B.iM,1/0,1/0)
 n=A.q8(A.ac8(A.fz(p.d[n],o,B.j,A.hj(o,o,B.i,o,o,o,o,o,p.e[n],o,o,40,o,o,B.dz,o,o,!0,o,20,o,o,o,o,o,o),B.c2,o)),o,o)
 s=A.ac8(A.fz("Build Your Own Dream",o,o,A.hj(o,o,B.i,o,o,o,o,o,o,o,o,15,o,o,B.dz,o,o,!0,o,10,o,o,o,o,o,o),B.aA,o))
 r=A.hj(o,o,B.i,o,o,o,o,o,"ZenDots-Regular",o,o,50,o,o,B.dz,o,o,!0,o,o,o,o,o,o,o,o)
